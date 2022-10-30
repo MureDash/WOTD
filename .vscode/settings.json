@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Ayansu\\Downloads\\jsoup-1.15.3.jar",
+        "/Users/re/Downloads/JDA-5.0.0-alpha.22-sources.jar",
+        "/Users/re/Downloads/JDA-5.0.0-alpha.22-withDependencies.jar"
+    ]
+}
